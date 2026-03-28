@@ -1,4 +1,4 @@
-##Case Study: UPI / Online Payment Fraud (with Real Incident)
+## Case Study: UPI / Online Payment Fraud (with Real Incident)
 
 UPI (Unified Payments Interface) fraud is a rapidly growing cybercrime in India where attackers trick users into authorizing payments. Instead of hacking systems, criminals manipulate victims into willingly completing transactions.
 
